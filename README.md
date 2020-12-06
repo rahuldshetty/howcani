@@ -1,5 +1,7 @@
 # howcani
 
+![Upload Python Package](https://github.com/rahuldshetty/howcani/workflows/Upload%20Python%20Package/badge.svg)
+
 Command Line Utility to search for coding related queries.
 
 howcani is inspired by [howdoi](https://github.com/gleitz/howdoi).
